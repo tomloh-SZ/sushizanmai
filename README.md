@@ -192,7 +192,7 @@
     //
     // from:
     //
-    // https://muisloh.github.io/sushizanmai/
+    // https://tomloh-sz.github.io/sushizanmai/
     // ==================================================
 
     if (managerFromURL || outletFromURL) {
